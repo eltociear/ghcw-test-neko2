@@ -1,19 +1,19 @@
 # ghcw-test-neko2
 
-## Tetris Game
+## テトリスゲーム
 
-You can play Tetris in your browser by opening the `index.html` file in this repository. Simply open the file in a web browser, and you can start playing the game.
+ブラウザで `index.html` ファイルを開くことで、テトリスをプレイできます。ファイルをウェブブラウザで開くだけで、ゲームを開始できます。
 
-### Controls
+### 操作方法
 
-- Left Arrow: Move left
-- Right Arrow: Move right
-- Down Arrow: Drop faster
-- Q: Rotate counterclockwise
-- W: Rotate clockwise
+- 左矢印キー: 左に移動
+- 右矢印キー: 右に移動
+- 下矢印キー: 速く落下
+- Q: 反時計回りに回転
+- W: 時計回りに回転
 
-### Improved Design and Styling
+### 改良されたデザインとスタイリング
 
-The Tetris game now features a modern and visually appealing design. The background has been updated to a gradient style, and the canvas now has rounded corners and a box shadow. The controls and score display have been updated with a more attractive font and color scheme.
+テトリスゲームは、現代的で視覚的に魅力的なデザインを特徴としています。背景はグラデーションスタイルに更新され、キャンバスには丸みを帯びた角とボックスシャドウが追加されました。操作方法とスコア表示は、より魅力的なフォントとカラースキームで更新されました。
 
-Enjoy the game!
+ゲームをお楽しみください！
